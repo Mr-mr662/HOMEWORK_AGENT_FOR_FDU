@@ -41,8 +41,6 @@ python ai_homework_safe.py
 
 - 密码和 API 密钥通过隐藏输入读取
 - 敏感信息只保存在当前进程内存中
-- [api_config.json](file:///Users/mirong/Documents/TRAE/homework_agent/api_config.json) 和 [config.json](file:///Users/mirong/Documents/TRAE/homework_agent/config.json) 已清空为示例值，适合上传 GitHub
-- 上传前仍建议将本地输出目录和虚拟环境加入忽略列表
 
 ## 可选模型
 
